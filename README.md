@@ -6,7 +6,7 @@ Here I code various Big-Data Technologies. Below I take you through my journey s
 4) Parallel Stochastic Gradient Descent (PSGD) Implementation using MPI.
 5) Next, we move to Hadoop. Some Map-Reduce concepts are implemented on Movie-Lens Dataset.
 6) Le-Net Architecture is implented on MNIST and CIFAR-10 Datasets using PyTorch. Visualisation is done on Tensorboard.
-7) Various Network Analysis is performed on the Image Clasification Network Like Normalization, Regularization,Different Optimizer Selection.
+7) Various Network Analysis is performed on the Image Clasification Network Like Normalization, Regularization, Different Optimizer Selection.
 8) Apache Spark
 9) Finally, PSGD and HogWild Implementations are carried out on PyTorch using custom Neural Net Architecture.
 
