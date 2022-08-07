@@ -1,1 +1,1 @@
-
+MPI framework to process large natural language corpora. Some basic tasks in NLP including data cleaning, text tokenization and convert words into their Term Frequency, Inverse Document Frequency (TFIDF) scores are done on the Twenty Newsgroup Dataset.
